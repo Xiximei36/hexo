@@ -656,7 +656,7 @@ lazyload:
 loading:
   # Full screen loading
   # 全屏加载
-  fullpage: false
+  fullpage: true
   # Pace loading
   # Pace 加载
   pace: true
