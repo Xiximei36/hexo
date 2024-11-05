@@ -879,7 +879,7 @@ search:
 # Music Page
 # 音乐馆
 music:
-  enable: false
+  enable: true
   # 歌单 ID / 单曲 ID
   id: 1994908354
   # 服务商：netease / qq / xiami / kugou / baidu
