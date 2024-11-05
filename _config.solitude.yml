@@ -67,7 +67,7 @@ nav:
 # Home Top Banner
 # 首页顶部
 hometop:
-  enable: false
+  enable: true
   banner:
     title:  宁静致远 <br> 热爱生活 # 标题
     url: Hexo Theme Solitude # 小字
